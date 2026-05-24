@@ -44,6 +44,15 @@
     box-shadow: 5px 5px 10px lightgrey;
 }
 .card-footer{
- background-color: rgb(255, 255, 255);
+ background-color: rgb(244, 244, 244);
  border-top: none;
+}
+#Contact{
+    height: 300px;
+}
+#Contact h5{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
